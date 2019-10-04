@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40f5cbca-3a5b-4fef-bf74-ba992f85cb6d" name="Default Changelist" comment="" />
+    <list default="true" id="40f5cbca-3a5b-4fef-bf74-ba992f85cb6d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/com/swedbank/javagyk/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/swedbank/javagyk/Main.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +17,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1RjI6eUhW5h25LCzL8MiT8QPQhm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -60,5 +66,16 @@
       <updated>1570173905286</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
